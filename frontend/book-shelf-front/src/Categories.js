@@ -1,18 +1,16 @@
-import logo from './logo.svg';
+
 import './App.css';
+import CategoryPage from './Category.js';
 import ResponsiveAppBar from './Navbar.js';
 import Box from '@mui/material/Box';
-import BookList from './BookList.js';
-import CategoryPage from './Category.js';
 
-function App() {
+function Category() {
   return (
     <Box>
       <ResponsiveAppBar />
-      <BookList />
       <CategoryPage />
     </Box>
   );
 }
 
-export default App;
+export default Category;
