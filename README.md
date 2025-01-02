@@ -20,3 +20,9 @@
 ## Home Page Screenshot After Search
 
 ![Home Page Screenshot After Search](screenshots/ssbok2.png)
+
+
+## Book Card Screenshot After Click
+
+![Book Card Screenshot After Click](screenshots/ssbok3.png)
+
