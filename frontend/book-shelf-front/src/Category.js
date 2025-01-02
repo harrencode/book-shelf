@@ -78,7 +78,7 @@ const CategoryPage = () => {
   return (
     <Box sx={{ padding: "16px" }}>
       {categories.map((category, index) => (
-        <Box key={index} sx={{ marginBottom: "60px" }}>
+        <Box key={index} sx={{ marginBottom: "60px",  marginLeft:"100px"}}>
           <Typography variant="h5" sx={{ marginBottom: "16px" }}>
             {category.title}
           </Typography>
