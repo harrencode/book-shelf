@@ -1,6 +1,8 @@
 
-![Logo](screenshots/bookLogo.png)
-
+## BookShelf 
+<p align="center">
+  <img src="screenshots/bookLogo.png" alt="Logo">
+</p>
 
 ## Setup Instructions
 
