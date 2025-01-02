@@ -7,6 +7,10 @@
 3. Replace Your-api-key-google-books in application.properties with your ACTUAL Google Books API key otherwise the project will not work.
 
 
-## Screenshots
-![Home Page Screenshot](screenshots/ssbook1.png)
-![Home Page Screenshot After Search](screenshots/ssbook2.png)
+## Home Page Screenshot
+
+![Home Page Screenshot](screenshots/ssbok1.png)
+
+## Home Page Screenshot After Search
+
+![Home Page Screenshot After Search](screenshots/ssbok2.png)
