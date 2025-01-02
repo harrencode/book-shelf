@@ -1,5 +1,5 @@
 
-## Logo For BookShelf 
+## BookShelf 
 <p align="center">
   <img src="screenshots/bookLogo.png" alt="Logo">
 </p>
