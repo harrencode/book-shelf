@@ -2,4 +2,6 @@
 
 1. Clone the repository.
 
-2. Replace Your-api-key-google-books in application.properties with your ACTUAL Google Books API key otherwise the project will not work.
+2. Rename the `application copy.properties` file to `application.properties`
+   
+3. Replace Your-api-key-google-books in application.properties with your ACTUAL Google Books API key otherwise the project will not work.
