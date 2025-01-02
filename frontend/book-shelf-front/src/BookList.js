@@ -75,7 +75,7 @@ const BookList = () => {
           </Button>
         </Grid2>
       </Grid2>
-      <Box sx={{ flexGrow: 1 }} >
+      <Box sx={{ flexGrow: 1 }} style={{ margin: "60px"}} >
         <Grid2 container spacing={3} margin={3}   >
           {books.map((book) => (
             <Grid2   key={book.id} sx={{ xs: 12, md: 4, sm: 6 }}>
