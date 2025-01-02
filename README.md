@@ -1,6 +1,8 @@
 
-![Logo](screenshots/bookLogo.png)
 
+<p align="center">
+  <img src="screenshots/bookLogo.png" alt="Logo">
+</p>
 
 ## Setup Instructions
 
