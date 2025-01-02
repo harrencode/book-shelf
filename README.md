@@ -1,3 +1,7 @@
+
+![Logo](screenshots/bookLogo.png)
+
+
 ## Setup Instructions
 
 1. Clone the repository.
